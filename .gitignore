@@ -1,4 +1,16 @@
 # Ide generate folders
 .idea/
+.idea_modules/
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Local datasets
+.data/
+
+# __pycache__ folders
+__pycache__/
 
 
