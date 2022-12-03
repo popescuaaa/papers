@@ -10,4 +10,7 @@ Thumbs.db
 # Local datasets
 .data/
 
+# __pycache__ folders
+__pycache__/
+
 
