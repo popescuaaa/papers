@@ -13,6 +13,15 @@
 - [ ] Variational Autoencoders (VAEs)
 
 
+## Others
+- [ ] VAE
+    - [x] Simple VAE
+    - [ ] VQ-VAE
+- [ ] Seq2Seq
+    - [ ] RNN Cell - from DNN HW
+- [ ] Transformer ~ Attention Models
+- [ ] Explore older architectures with attention ~ RNN   
+
 ## Architectures
 
 - [ ] AlexNet: [https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
@@ -37,6 +46,10 @@
 ## Generative adversarial networks
 
 - GAN: [https://arxiv.org/abs/1406.2661](https://arxiv.org/abs/1406.2661)
+
+    - [x] Simple GAN and some expriments on it
+    - [ ] Learning experiments on joint training 
+
 - DCGAN: [https://arxiv.org/abs/1511.06434](https://arxiv.org/abs/1511.06434)
 - WGAN: [https://arxiv.org/abs/1701.07875](https://arxiv.org/abs/1701.07875)
 - Pix2Pix: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
