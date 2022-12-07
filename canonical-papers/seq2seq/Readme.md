@@ -1,4 +1,4 @@
-#### About seq2seq models and their applications...
+#### About seq2seq models
 
 ---
 
