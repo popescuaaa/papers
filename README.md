@@ -1,9 +1,12 @@
 # Papers
 
 
-## Generative models
-- Maybe for anomaly detection
 
+## Generative models
+- [ ] Energy based generative models
+    - [ ] Hopefield networks
+    - [ ] Restricted Boltzman Machines
+    - [ ] Botzman Machines
 - [ ] Autoregressive Models
 - [ ] Bayesian Network
 - [ ] Generative Adversarial Networks => dedicated section
@@ -11,6 +14,10 @@
 - [ ] Hidden Markov Model
 - [ ] Latent Dirichlet Allocation (LDA)
 - [ ] Variational Autoencoders (VAEs)
+
+---
+- [ ] Diffusion models
+- [ ] Stable diffusion
 
 
 ## Others
