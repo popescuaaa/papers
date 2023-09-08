@@ -13,4 +13,8 @@ Thumbs.db
 # __pycache__ folders
 __pycache__/
 
+# Jupyter Notebook artifacts
+.ipynb_checkpoints/
+
+
 
