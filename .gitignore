@@ -9,6 +9,7 @@ Thumbs.db
 
 # Local datasets
 .data/
+data/
 
 # __pycache__ folders
 __pycache__/
@@ -17,4 +18,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 
-
+# data folders
+data/
