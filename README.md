@@ -1,12 +1,15 @@
 # Papers
 
+## Playground
 
+- [ ] Missing labels classification
+- [ ] Online anomaly detection - real time scenario
 
 ## Generative models
-- [ ] Energy based generative models
-    - [ ] Hopefield networks
-    - [ ] Restricted Boltzman Machines
-    - [ ] Botzman Machines
+- [ ] Energy based generative models - brief
+    - [ ] Hopfield networks - the new architecture
+    - [ ] Restricted Boltzmann Machines
+    - [ ] Boltzmann Machines
 - [ ] Autoregressive Models
 - [ ] Bayesian Network
 - [ ] Generative Adversarial Networks => dedicated section
