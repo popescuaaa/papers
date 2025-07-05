@@ -1,6 +1,5 @@
 ./commonvoice
-
 .ipynb_checkpoints
-
 ./audio
+./data
 
