@@ -1,0 +1,13 @@
+[project]
+name = "Simple_Contrastive_Learning_of_Sentence_Embeddings"
+version = "0.1.0"
+description = "papers implementation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.1.0",
+    "pandas>=2.3.2",
+    "torch>=2.7.0",
+    "torchvision>=0.22.0",
+    "transformers>=4.56.0",
+]
